@@ -1,6 +1,6 @@
 {
   "name": "substr-word",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Substr that preserves whole words.",
   "main": "index.js",
   "keywords": [
@@ -11,10 +11,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shoshomiga/substr-word.git"
+    "url": "https://github.com/jameslporter/substr-word.git"
   },
   "bugs": {
-    "url": "https://github.com/shoshomiga/substr-word/issues"
+    "url": "https://github.com/jameslporter/substr-word/issues"
   },
-  "homepage": "https://github.com/shoshomiga/substr-word"
+  "homepage": "https://github.com/jameslporter/substr-word"
 }
